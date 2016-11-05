@@ -1,0 +1,3 @@
+1. use debug module
+2. support domain socket
+3. support remote socket rpc or data access

@@ -1,0 +1,13 @@
+{
+  "name": "socket.io-adapter-multinode",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-adapter": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}

@@ -5,6 +5,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "debug": "^2.5.2",
     "node-uuid": "^1.4.7",
     "socket.io-adapter": "^0.4.0"
   },

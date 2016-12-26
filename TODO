@@ -1,3 +1,12 @@
-1. use debug module
-2. support domain socket
-3. support remote socket rpc or data access
+1. support domain socket
+2. support remote socket data access
+3. remote data access
+  factory(client)
+    - update
+    - create
+    - destroy
+
+  Proxy
+    - one layer
+    - __data__
+    - __revoke__
